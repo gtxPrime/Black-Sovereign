@@ -1,7 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}
-    
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/DarkestMarket666'>Dark Market</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
+Hᴇʟʟᴏ, I ᴀᴍ Dᴀʀᴋ Cᴏɴᴛʀᴏʟʟᴇʀ, Pᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/DarkestXMarket666'>Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ</a> I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs ,Wᴇʙ sᴇʀɪᴇs Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴJᴏʏ 😍</b>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
