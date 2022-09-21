@@ -1,22 +1,22 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}
-I ᴀᴍ Dᴀʀᴋ Cᴏɴᴛʀᴏʟʟᴇʀ, Pᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/DarkestXMarket666'>Dᴀʀᴋᴇsᴛ Mᴀʀᴋᴇᴛ</a>. I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs ,Wᴇʙ sᴇʀɪᴇs Jᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴJᴏʏ 😍</b>
+ɪ ᴀᴍ ʙʟᴀᴄᴋ sᴏᴠᴇʀᴇɪɢɴ, Pᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/ZCipher'>Z Cipher</a>. ɪ ᴀᴍ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ @ɢᴛxᴘʀɪᴍᴇ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs. ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ <a href='http://t.me/BlackSovereignAdBot?startgroup=true'>(ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴀᴅᴅ)</a> ᴏʀ ᴜsᴇ ᴍᴇ ɪɴ ᴘᴍ 😍</b>
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+My usable commands are listed below."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/DarkestMarket666>Suryansh Pandit</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/gtxPrime>gtxPrime</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Dark Controller is a closed source project. 
+- ʙʟᴀᴄᴋ sᴏᴠᴇʀᴇɪɢɴ is a closed source project. 
 - Source - Read above Its written clearly still u are asking for source !!
 
 <b>DEVS:</b>
-- <a href=https://t.me/DarkestMarket666>Team Suryansh</a>"""
+- <a href=https://t.me/gtxPrime>gtxPrime</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
